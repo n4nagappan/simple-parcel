@@ -1,0 +1,4 @@
+*.sw?
+*.cache
+dist
+node_modules/**
